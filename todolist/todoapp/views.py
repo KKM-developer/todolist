@@ -9,6 +9,7 @@ from .filters import TodoFilter
 
 
 class ProjectPagination(PageNumberPagination):
+    #20 записей
     page_size = 20
 
 
@@ -26,6 +27,7 @@ class ProjectViewSet(ModelViewSet):
 
 
 class ToDoPagination(PageNumberPagination):
+    #10 записей
     page_size = 10
 
 
