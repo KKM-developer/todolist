@@ -1,3 +1,4 @@
 /todolist/htmlcov/
 /venv/
 *.sqlite3
+/todolist/frontend/node_modules/
