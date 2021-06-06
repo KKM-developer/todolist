@@ -1,0 +1,3 @@
+/todolist/htmlcov/
+/venv/
+*.sqlite3
